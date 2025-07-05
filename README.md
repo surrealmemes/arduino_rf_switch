@@ -5,10 +5,6 @@ Wiring Diagram:
 
 Many vendor and product IDs have been included. Should work with most Arduino boards.
 
-Make sure to install Qt 6.9. This can be done on Linux Mint and Ubuntu with:
-
-```
-sudo apt install qt6-base-dev
-```
+Make sure to install Qt 6.9.x
 
 Built with qmake
