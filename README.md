@@ -5,9 +5,6 @@ Wiring Diagram:
 
 Many vendor and product IDs have been included. Should work with most Arduino boards.
 
-Make sure to install Qt 6.9.x with QtSerialPort
-![qtss](https://github.com/user-attachments/assets/6493d1cb-82e1-464f-997f-12807c1bc98d)
-![qtssserial](https://github.com/user-attachments/assets/25ce24ef-14b5-4dc0-bc59-6f435e3f0c34)
+Flash the .ino file found in the "rfswitch_arduino_firmware" folder to the Arduino. Plug in the Arduino USB to your PC after wiring it to the RF switch as shown in the diagram. Execute "arduino-rf-switch.exe" and you should be able to select your desired port.
 
 
-Built with qmake
